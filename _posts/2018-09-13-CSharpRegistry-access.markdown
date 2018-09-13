@@ -2,7 +2,7 @@
 layout: post
 title:  "C#在64位系统下的注册表读写"
 date:   2018-09-13 21:44:12 +0800
-categories: C#
+categories: Csharp
 ---
 
 今天开始了一个项目，是一个Minecraft启动器项目，使用C#语言开发
