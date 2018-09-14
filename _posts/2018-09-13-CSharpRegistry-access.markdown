@@ -21,9 +21,9 @@ RegistryKey javaPathKey = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\JavaSoft\J
 
 string javaPath = javaPathKey.GetValue("JavaHome").ToString();
 
-```C-like
-编译调试过程中发现变量 javaKey 的值为NULL，检查过后发现注册表路径没有错误，尝试给程序管理员权限也无果，查询相关资料得知，C#在32位系统与64位系统的注册表读写操作路径不同，上述代码只适用于32位系统，故应在读写时判断系统的位数，新建一个类
 ```
+编译调试过程中发现变量 javaKey 的值为NULL，检查过后发现注册表路径没有错误，尝试给程序管理员权限也无果，查询相关资料得知，C#在32位系统与64位系统的注册表读写操作路径不同，上述代码只适用于32位系统，故应在读写时判断系统的位数，新建一个类
+```C-like
 public class RegistryHelpers
         {
             public static RegistryKey GetRegistryKey()
