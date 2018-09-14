@@ -9,7 +9,3 @@ categories: Introduction
 这里是Rhyland Studio的页面
 
 2018.09.05 ZYX
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
