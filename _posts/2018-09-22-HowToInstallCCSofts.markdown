@@ -17,22 +17,22 @@ categories: Softs
 
 # 安装
 
-#####1.打开CC官方网站
+##### 1.打开CC官方网站
 
 [Adobe Creative Cloud](https://www.adobe.com/cn/creativecloud/catalog/desktop.html)
 
-#####2.登录
+##### 2.登录
 
 在右上角登录处注册属于自己的 `Creative Cloud` 账号
 
 ![1.png](https://i.loli.net/2018/09/22/5ba5dde03496c.png '注册账户')
 
-#####3.下载CC
+##### 3.下载CC
 
 返回至主页，找到 `Creative Cloud` 单击下载，`Adobe` 会自动判别操作系统
 ![2.png](https://i.loli.net/2018/09/22/5ba5de5accce9.png 'CC下载')
 
-#####4.启动CC并登录
+##### 4.启动CC并登录
 
 下载并且安装完成之后，会得到一个 `Creative Cloud` 的桌面应用程序
 （如果遇到安装速度慢的情况，请尝试科学上网，若不会开启，请联系博客作者，友情提供）
@@ -41,11 +41,11 @@ categories: Softs
 
 ![3.png](https://i.loli.net/2018/09/22/5ba5e13c53d62.png 'CC桌面应用程序')
 
-#####5.安装完成
+##### 5.安装完成
 在你要安装的软件右边单击 `试用`
 系统会自动安装你需要的软件，若遇安装慢，请科学上网。
 
 ---
-#POJIE相关
+# POJIE相关
 
-##待添加...
+## 待添加...
