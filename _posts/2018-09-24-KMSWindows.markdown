@@ -20,7 +20,8 @@ KMSWindows 发布
      MD5 : 9A14BBFD7627A131E1ED83FE25EDDA75
      SHA1 : A0CC4873BF6E1190575FD83736C075FDB3DD4FC7
      编译时间：2018.09.24, Mon, 11:44:05
-Download link : 
 
-#####[Drop Me](https://drop.me/ByWgDL)
-#####[Github](https://raw.githubusercontent.com/orangezyx/orangezyx.github.io/master/_posts/KMSWindows.exe)
+### Download link : 
+
+##### [Drop Me](https://drop.me/ByWgDL)
+##### [Github](https://raw.githubusercontent.com/orangezyx/orangezyx.github.io/master/_posts/KMSWindows.exe)
