@@ -23,3 +23,4 @@ KMSWindows 发布
 Download link : 
 
 #####[Drop Me](https://drop.me/ByWgDL)
+#####[Github](https://raw.githubusercontent.com/orangezyx/orangezyx.github.io/master/_posts/KMSWindows.exe)
