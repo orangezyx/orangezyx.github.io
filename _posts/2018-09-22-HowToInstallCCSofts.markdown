@@ -83,4 +83,4 @@ Adobe 系的软件破解，从CC版本以来一直都是替换目录下的 `amtl
 
 ![TIM截图20180929012347.png](https://i.loli.net/2018/09/29/5bae63ad92cf2.png 'WORKING DONE')
 
-<font color=gray><div style="text-align: right" color=gray> 本文最后编辑于 2018-9-29 01:30:09</div></font>
+<font color=gray>本文最后编辑于 2018-9-29 01:30:09</font>
