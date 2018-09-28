@@ -53,6 +53,34 @@ categories: Softs
 安装完成之后，点击右侧的 `开始试用`
 
 ---
-# POJIE相关
+# POJIE 相关
 
-##### 待添加...
+## 前言
+> 破解软件一直觉得是个很严肃的问题，不想在这么认（hua）真（shui）的文章中提及到这个字眼，那么姑且叫它中国特色版吧，
+Adobe 系的软件破解，从CC版本以来一直都是替换目录下的 `amtlib.dll` 这个动态库来达到破解的目的，这个库的破解好像是毛子开发的（不是很清楚）
+一直到CC2018版本，所有的破解工作都会在 Adobe 发布之后短短1-2天就发布了破解的动态库，然而从CC2019开始，这个库被内置到主程序中了，不过我相信以毛子和中国人的破解能力，一周内各种补丁各种破解程序就会在各大论坛及影视网站横飞。（难道不是早已习惯了吗）
+
+## AMTEmu
+![TIM截图20180929011653.png](https://i.loli.net/2018/09/29/5bae620f9817a.png 'amtemu v0.9.2')
+
+##### 程序下载 : [Drop Me](https://drop.me/MRqmx3)
+
+就是这么一款很强大的破解工具，让多少幸苦学习 PS PR AE 的小（qiong）白（bi）们用上了 “正版”。
+
+支持 `Adobe CC` 全系列的软件破解，其原理就是替换主程序目录下的 `amtlib.dll`
+
+##### 请在一切操作之前，彻底关闭你的程序！
+
+用法很简单，选中你要破解的软件，单击 `Install`
+
+![TIM截图20180929012132.png](https://i.loli.net/2018/09/29/5bae6325742a6.png '选择要破解的程序')
+
+选择主程序目录下的 `amtlib.dll`
+
+![TIM截图20180929012238.png](https://i.loli.net/2018/09/29/5bae63666ac82.png '定位 amtlib.dll')
+
+搞定！
+
+![TIM截图20180929012347.png](https://i.loli.net/2018/09/29/5bae63ad92cf2.png 'WORKING DONE')
+
+<font color=gray><div style="text-align: right" color=gray> 本文最后编辑于 2018-9-29 01:30:09</div></font>
