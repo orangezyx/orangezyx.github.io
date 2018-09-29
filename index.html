@@ -46,7 +46,6 @@ description: 或许是最年轻且活力的团队
                     <time class="post-date" datetime="{{ post.date | date:"%y-%m-%d" }}">{{ post.date | date_to_string }}</time>
                     {% if site.leancloud.enable %}
                         <span id="{{ post.url }}" class="leancloud_visitors" data-flag-title="{{ post.title }}">
-                        <span class="post-meta-divider">|</span>
                         <span class="post-meta-item-text"> 阅读:  </span>
                         <span class="leancloud-visitors-count"></span>
                         </span>
