@@ -76,3 +76,8 @@ permalink: /:year/:month/:day/:title.html
 
 # Plugins
 plugins: [jekyll-paginate]
+
+leancloud:
+  enable: true
+  app_id: Bp9cJoJI8HauidoRNb5mFRUm-gzGzoHsz
+  app_key: mHw9oE4XiWxR3AKdNrwblpqX
