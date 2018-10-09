@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "那些优秀的媒体播放器"
+date:   2018-10-8 12:35:51 +0800
+categories: Softs
+---
+都8012年了，还在用QQ影音！
+
+# 前言
+
+> 当我看着我的小伙伴的电脑上的视频播放器还是 `QQ影音` 的时候，心中飘过了副标题那句话，什么年代了，还在用暴风影音？
+
+随着国产视频播放器的盛行，各种诸如爱奇艺、优酷、搜狐等等播放器进入了视野，打着最强播放器的旗号，可以解码任何格式，然而事实...
+
+![1.jpg](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1538983818275&di=4ba44b2135faba439be3d5c352c2216a&imgtype=0&src=http%3A%2F%2Fg.hiphotos.baidu.com%2Fzhidao%2Fwh%253D450%252C600%2Fsign%3D0f6f9949227f9e2f7060150c2a00c512%2Fd788d43f8794a4c2d3facc840bf41bd5ac6e3947.jpg '解码失败...')
+
+残酷的现实摆在面前，遇到一个解不开的编码时，会尝试从云服务器上面下载可能的解码器，最终以失败告终。
+
+# 推荐
+
+当然也不能完全否认国产播放器，还是有不少优秀作品的，在这就不一一举例了。
+
+自己用过很多播放器，下面介绍几款感觉不错的，优秀的，甚至开源的播放器。
+
+### VLC Media Player
+
+![TIM截图20181008125246.png](https://i.loli.net/2018/10/08/5bbae2e61833f.png 'Video LAN 的官方页面')
+
+这款播放器简介的安装界面，以及强大的解码能力第一个映入了我的眼帘，它的开发团队是一个由国外大学生组成的非营利性组织 `Video LAN`，最出名的项目就是这个媒体播放器了，它涵盖了几乎所有的音频、视频、字幕的解码。
+
+它是跨平台的，支持 Android\iOS\Windows\Linux\Mac OS
+
+使用过程中没有任何广告，并且！这个项目是开源的，代码托管在Github上面。
+
+##### LINKS
+
+[Video LAN 官方网站](https://www.videolan.org/)
+[VLC Github 托管页面](https://github.com/videolan/vlc)
+
+
+### PotPlayer
+
+“在用过这款播放器之后，我就把它当成主力了，因为一个功能”
+
+![TIM截图20181009163701.png](https://i.loli.net/2018/10/09/5bbc68b3ef8c8.png 'PotPlayer')
+
+这个播放器更多适用于电影的播放，因为它可以实现一些效果，在LAV解码器和madVR的加持下，可以有效提升电影的画质
+
+这里引用一下[蓝光电影网](http://www.languangdy.com/share/945.html)的图片（侵删）
+
+##### 【时间的风景】 蓝光压制1080P 【暴风播放器】与【PotPlayer+LAV+madVR】效果对比：
+![1.jpg](http://ww1.sinaimg.cn/large/006mrcHsgw1f5aqx9uz0rj31hc0u044f.jpg)
+![2.jpg](http://ww1.sinaimg.cn/large/006mrcHsgw1f5aqxauluzj31hc0u0k7p.jpg)
+##### 【甲铁城的卡巴内瑞】 HEVC-10Bit-1080P 【暴风播放器】与【PotPlayer+LAV+madVR】效果对比：
+![3.jpg](http://ww2.sinaimg.cn/large/006mrcHsgw1f5aqxbird1j31hc0u042v.jpg)
+![4.jpg](http://ww4.sinaimg.cn/large/006mrcHsgw1f5aqx8y310j31hc0u0tjq.jpg)
+##### 【地球脉动第二季】 蓝光高参压制1080P52GB版本 【暴风原版】、【暴风开左眼】与【PotPlayer+LAV+madVR】效果对比：
+![5.jpg](http://wx4.sinaimg.cn/large/006mrcHsgy1fdkbq4wd0kj31hc0u0dnn.jpg)
+![6.jpg](http://wx4.sinaimg.cn/large/006mrcHsgy1fdkbq7fhm3j31hc0u0482.jpg)
+![7.jpg](http://wx3.sinaimg.cn/large/006mrcHsgy1fdkbq2jrauj31hc0u01cl.jpg)
+ 
+>通过对比，可以看到影片在经过madVR即时渲染之后，颜色更加纯正合理，【时间的风景】岩石上的青苔景深更加清楚细腻，远方的景色也更加清晰。在第二组【甲铁城的卡巴内瑞】中可以在截图的左上角看到光线的散射反射效果比之原版清楚细腻太多。第三组对比特意加入了暴风的左眼技术进行对比，由于暴风的左眼技术只是智能地调节亮度、对比度和锐化画面，而不是即时渲染，所以在细节上表现就不是很好，树的光影、波涛的反光以及右下角水下的石头比起LAV+madVR即时渲染出来的效果就差了不少。当然，LAV+madVR组合在电脑配置上要求也要高一些。
+
+具体资源就不给出了，可以从百度搜索到很多的资源。
+
+本文最后编辑于 2018-10-9 16:44:56
