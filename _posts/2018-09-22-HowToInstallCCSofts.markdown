@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "如何优雅的安装Creative Cloud 的软件"
-date:   2018-9-22 13:54:08 +0800
+author: ZYX
+date:   2018-9-22 +0800
 categories: Softs
 ---
 这是一个严肃且认真的问题！

@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "C#在64位系统下的注册表读写"
-date:   2018-09-13 21:44:12 +0800
+author: ZYX
+date:   2018-09-13 +0800
 categories: Csharp
 ---
 

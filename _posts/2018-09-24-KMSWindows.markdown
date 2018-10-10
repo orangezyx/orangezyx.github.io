@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "一个便捷且快速的 Windows 与 Office 激活工具"
-date:   2018-9-24 10:07:42 +0800
+author: ZYX
+date:   2018-9-24 +0800
 categories: Softs
 ---
 KMSWindows 发布

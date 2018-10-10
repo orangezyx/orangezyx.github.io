@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "那些优秀的媒体播放器"
-date:   2018-10-8 12:35:51 +0800
+author: ZYX
+date:   2018-10-8 +0800
 categories: Softs
 ---
 都8012年了，还在用QQ影音！

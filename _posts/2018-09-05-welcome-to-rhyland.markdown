@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "这里是 Rhyland Studio"
-date:   2018-09-05 13:19:45 +0800
+author: ZYX
+date:   2018-09-05 +0800
 categories: Introduction
 ---
 你好，世界！
