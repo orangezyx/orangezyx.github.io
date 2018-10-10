@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "正确解锁Python&Pycharm2018的姿势"
+title:  "正确解锁Python&Pycharm2018的姿势（一）"
 date:   2018-10-10 +0800
 author: Runnt
 categories: Programs
@@ -103,5 +103,6 @@ python -V
 将安装 Python 的根目录写入，按照弹出窗口顺序一直单击确定
 
 系统环境变量添加完成
+再使用上面的步骤看看，是否成功了呢~
 
 本文最后编辑于 2018-10-10 23:46:55
