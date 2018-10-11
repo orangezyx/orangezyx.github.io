@@ -2,7 +2,7 @@
 layout: post
 title:  "正确解锁Python&Pycharm2018的姿势（一）"
 date:   2018-10-10 +0800
-author: Runnt
+author: Rogister
 categories: Programs
 ---
 躺好了，快点进来Get这些技巧
